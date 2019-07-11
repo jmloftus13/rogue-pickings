@@ -46,7 +46,6 @@ h4 {
 p {
 	font-size: 14px;
 	line-height: 21px;
-  padding: 0 30px; /*maybe remove*/
 }
 
 ul {
@@ -127,10 +126,6 @@ header nav ul li a{
 .section-three {
 	width: 100%;
 	border-top: 1px solid #eee;
-}
-/*can I get some space on the left of section-one w/out using padding? */
-.section-one {
-	padding: 0 10px;
 }
 
 .menu {
